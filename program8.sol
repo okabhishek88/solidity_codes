@@ -4,7 +4,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
-contract isArmstrongNumber {
+contract isArmstrongNumb {
     function f1(uint256 value) public pure returns (bool) {
 
         uint256 _temp = value;
