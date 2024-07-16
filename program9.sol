@@ -1,10 +1,10 @@
-// Write a program to check if a given number is armstrong number or not
+// Write a program to find the greatest among three numbers
 
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity >=0.7.0 <0.9.0;
 
-contract isArmstrongNumber {
+contract Greatest {
     function f1(uint256 value1, uint value2, uint value3) public pure returns (string memory) {
         
         if (value1 > value2){
