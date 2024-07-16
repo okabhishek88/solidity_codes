@@ -4,7 +4,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
-contract Swap {
+contract Power {
     function f1(uint256 value1, uint256 value2) public pure returns (uint256){
         uint x = value1**value2;
         return x;
