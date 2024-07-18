@@ -1,4 +1,4 @@
-// Write a program to print sum of natural numbers
+// Write a program to print sum of n natural numbers
 
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.7.0 <0.9.0;
